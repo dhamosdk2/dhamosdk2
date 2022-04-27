@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dhamosdk2
-- 👀 I’m interested in, Python,C,C++, Java
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking for job as fresher.
+- 🌱 I’m currently learning Java
 - 📫 contact: sdkannan30042000@gmail.com
 
 <!---
